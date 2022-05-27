@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.69784a9b.css",
-    "main.js": "/static/js/main.06b65891.js",
-    "static/js/787.bd689d81.chunk.js": "/static/js/787.bd689d81.chunk.js",
-    "static/media/alexander.jpeg": "/static/media/alexander.6fb1fefe14621a380f5b.jpeg",
-    "static/media/anonymous_waver.png": "/static/media/anonymous_waver.fc04641c151e1b795192.png",
-    "index.html": "/index.html",
-    "main.69784a9b.css.map": "/static/css/main.69784a9b.css.map",
-    "main.06b65891.js.map": "/static/js/main.06b65891.js.map",
-    "787.bd689d81.chunk.js.map": "/static/js/787.bd689d81.chunk.js.map"
+    "main.css": "/wave_portal-dapps/static/css/main.f0d0145f.css",
+    "main.js": "/wave_portal-dapps/static/js/main.eca465be.js",
+    "static/js/787.bd689d81.chunk.js": "/wave_portal-dapps/static/js/787.bd689d81.chunk.js",
+    "static/media/alexander.jpeg": "/wave_portal-dapps/static/media/alexander.6fb1fefe14621a380f5b.jpeg",
+    "static/media/anonymous_waver.png": "/wave_portal-dapps/static/media/anonymous_waver.fc04641c151e1b795192.png",
+    "index.html": "/wave_portal-dapps/index.html",
+    "main.f0d0145f.css.map": "/wave_portal-dapps/static/css/main.f0d0145f.css.map",
+    "main.eca465be.js.map": "/wave_portal-dapps/static/js/main.eca465be.js.map",
+    "787.bd689d81.chunk.js.map": "/wave_portal-dapps/static/js/787.bd689d81.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.69784a9b.css",
-    "static/js/main.06b65891.js"
+    "static/css/main.f0d0145f.css",
+    "static/js/main.eca465be.js"
   ]
 }
